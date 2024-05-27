@@ -1,10 +1,10 @@
 ### Hi there 👋,I'm Frost.
 
 - 🔭 I’m currently studying on Northeastern University (China). I will graduate in 2026.
-- 🌱 I’m currently learning distributed system design.
+- 🌱 I’m currently learning distributed system design.&k8s&Service mesh
 - <p>● 💬 Ask me about <b>Java, Go, Mysql and so on</b></p>
 - 📫 How to reach me: 2060307490@qq.com
-- 👀 Looking for remote internship.
+- 👀 I am now an intern in Sohu's infrastructure team.
 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
